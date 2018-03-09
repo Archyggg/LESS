@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.main {
+  position: absolute;
+  height: 100% auto;
+  width: 494px;
+  background-color: red;
+  margin: 0 35% 0 35%;
+  padding: 0px auto;
+  display: block;
+  border: 1px solid black;
+  border-bottom: none;
+}
+.row {
+  width: 100%;
+  height: 25px;
+  display: block;
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+}
+.box {
+  vertical-align: top;
+  border-left: 1px solid black;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  margin: 0 auto;
+  float: left;
+}
+.blue {
+  background-color: #0000ff;
+}
+.white {
+  background-color: #ffffff;
+}
+.siren {
+  background-color: #0ee6e3;
+}
